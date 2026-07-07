@@ -10,5 +10,5 @@
 
 ~ Help To Help, Share, Star The Repo, Contribute Via PR
 
-<a href="https://x.com/ruru_cs"><strong>Follow Me On Github</strong></a>
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fruruyaa"><strong>Follow Me On Github</strong></a>
 </samp>
